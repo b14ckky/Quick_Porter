@@ -22,7 +22,7 @@ A Fast Port Scanner Script That Use Multithreading For Rapid Scanning!!
  
  # Installation
 
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
 ```bash
 git clonehttps://github.com/b14ckky/Quick_Porter.git
