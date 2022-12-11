@@ -32,6 +32,8 @@ python3 quick_porter.py -h
 
 ## Installation [Windows]
 ```bash
+cd Quick_Porter
+sudo pip install -r requirement.txt
 python3 quick_porter.py -h
 ```
 
