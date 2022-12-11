@@ -22,16 +22,20 @@ A Fast Port Scanner Script That Use Multithreading For Rapid Scanning!!
  
  # Installation
 
-## Installation [Linux](https://wikipedia.org/wiki/Linux) 
-## Installation [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
-  
-  
+## Installation [Linux]
 ```bash
 git clonehttps://github.com/b14ckky/Quick_Porter.git
 cd Quick_Porter
 sudo pip install -r requirement.txt
-python3 main.py
+python3 quick_porter.py -h
 ```
+
+## Installation [Windows]
+```bash
+python3 quick_porter.py -h
+```
+
+
 
  ## YouTube Demo :
   Comming soon .....
