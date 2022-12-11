@@ -4,8 +4,6 @@
   <br>
   
 ##   <p align="center">Quick Porter<p align="center"> 
-  <p align="center">Simple TCP port scaner<p align="center">
-
 
 
 
