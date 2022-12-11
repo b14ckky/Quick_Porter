@@ -71,11 +71,22 @@ print("\t Victim Domain :", Fore.RED, args.domain, Fore.RESET)
 print(Fore.RED, "\t--------------------------------------\n", Fore.RESET)
 print(Fore.CYAN, "\n\tPORT\t\tSTATE\t\tSERVICE", Fore.RESET)
 
+threads = []
+
 if args.port:
     t = threading.Thread(target=scan, args=(args.port,))
     t.start()
+    threads.append(t)
 
-else:
+    for item in threads:
+        item.join()
+
+elif args.sp and args.ep:
     for i in range(args.sp, args.ep + 1):  # 26 is minimum & 150 is best
         t = threading.Thread(target=scan, args=(i,))
         t.start()
+        threads.append(t)
+
+    for item in threads:
+        item.join()
+
