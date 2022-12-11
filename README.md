@@ -25,7 +25,7 @@ sudo apt install python3
 git clone https://github.com/b14ckky/Quick_Porter.git
 cd Quick_Porter
 sudo pip install -r requirement.txt
-python3 quick_porter.py -h
+python quick_porter.py -h
 ```
 
 ## Installation [Windows]
@@ -33,7 +33,7 @@ python3 quick_porter.py -h
 Download exe from here - https://www.python.org/downloads/
 cd Quick_Porter
 sudo pip install -r requirement.txt
-python3 quick_porter.py -h
+python quick_porter.py -h
 ```
 
 
