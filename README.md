@@ -14,7 +14,7 @@
 ###### <p align="center"> *You can check [Instagram](https://www.instagram.com/0xz33l/)✌*
   
 
-## TPScaner
+## Quick_Porter
  
 A Fast Port Scanner Script That Use Multithreading For Rapid Scanning!!
   
