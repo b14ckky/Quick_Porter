@@ -25,11 +25,11 @@ A Fast Port Scanner Script That Use Multithreading For Rapid Scanning!!
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/0xMrR0b0t/TPScanner.git
-cd TPScaner 
+git clonehttps://github.com/b14ckky/Quick_Porter.git
+cd Quick_Porter
+sudo pip install -r requirement.txt
 python3 main.py
 ```
-That's it. You can execute tool by typing **TPScaner**
 
  ## YouTube Demo :
   Comming soon .....
@@ -39,4 +39,4 @@ That's it. You can execute tool by typing **TPScaner**
 
  ### Development by
 
-Developer / Author: [0xMrR0b0t](https://www.instagram.com/mohit_a95/)
+Developer / Author: [0xB14CKY](https://www.instagram.com/0xz33l/)
