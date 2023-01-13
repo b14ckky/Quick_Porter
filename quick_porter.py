@@ -8,8 +8,6 @@ from colorama import Fore
 from termcolor import colored
 import random
 
-os.system("cls")
-
 rainbow = ['red', 'green', 'green', 'blue', 'magenta', 'cyan']
 r0 = random.randint(0, 5)
 r1 = random.randint(0, 5)
