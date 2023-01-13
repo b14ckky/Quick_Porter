@@ -28,7 +28,9 @@ sudo pip install -r requirement.txt
 python quick_porter.py -h
 ```
 
-## Installation [Windows]
+## Installation [Windows] - 
+Note :- For Windows you need to install getenv
+
 ```bash
 Download exe from here - https://www.python.org/downloads/
 cd Quick_Porter
