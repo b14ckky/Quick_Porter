@@ -7,7 +7,7 @@
 
 
 ###### <p align="center">*This is official repository maintained by me*
-###### <p align="center"> *[0xz33l → Instagram](https://www.instagram.com/0xz33l/)✌*
+###### <p align="center"> *[0xb14cky → Instagram](https://www.instagram.com/0xb14cky/)✌*
 ###### <p align="center"> *[0xB14CKY→ Youtube](https://www.youtube.com/channel/UC8bmAXnfIitSouOnhD9bjzA/) ❤️*
   
 
