@@ -44,4 +44,4 @@ python quick_porter.py -h
 
  ### Development by
 
-Developer / Author: [0xB14CKY](https://www.instagram.com/0xz33l/)
+Developer / Author: [0xB14CKY](https://www.instagram.com/0xb14cky/)
