@@ -1,7 +1,3 @@
-<p align=center>
-  <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
-  
-  <br>
 ##   <p align="center">Quick Porter<p align="center"> 
 
 
